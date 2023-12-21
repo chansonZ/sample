@@ -53,6 +53,13 @@ The speed issue is addressed by
 - using the [PCG family][4] to obtain randomness
 - oversampling
 
+Installation
+--------
+
+    $ autoreconf -vfi
+    $ ./configure
+    $ make
+
 
 Examples
 --------
